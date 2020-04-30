@@ -1,2 +1,2 @@
 # tutorial1
-test page
+# this page is to improve our coding skill to make our own web application
